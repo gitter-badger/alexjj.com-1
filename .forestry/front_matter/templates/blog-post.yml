@@ -11,6 +11,9 @@ fields:
 - type: list
   name: tags
   label: tags
+  config:
+    use_select: false
+  description: List of tags
 - type: text
   name: description
   label: description
