@@ -1,0 +1,26 @@
+---
+label: Blog post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+  config:
+    date_format: YYYY-MM-DD
+    export_format: YYYY-MM-DD
+    required: true
+  default: now
+- type: list
+  name: tags
+  label: tags
+  config:
+    use_select: false
+  description: List of tags
+- type: text
+  name: description
+  label: description
+pages:
+- content/blog/all-the-keyboards-poker-2.md
