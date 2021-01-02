@@ -6,3 +6,9 @@ tags = ["keyboard"]
 title = "All the keyboards: Poker 2"
 
 +++
+### Keyboard series:
+
+* [Part 0: Introduction](https://alexjj.com/blog/all-the-keyboards-part-0/)
+* Part 1: Poker 2
+
+## Poker 2
