@@ -9,12 +9,12 @@ copyright = "Copyright © 2021, Alex Johnstone"
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
 
-# Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
+
 disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
 [permalinks]
-  blog = "/:slug/"
-  tags = "/blog/:slug"
+  blog = "/blog/:slug"
+  tags = "/blog/tags/:slug"
 
 
 [params]
@@ -38,4 +38,4 @@ ignoreErrors = ["error-disable-taxonomy"]
 
   # This theme will, by default, inject a made-with-line at the bottom of the page.
 
-  hideMadeWithLine = true
+  hideMadeWithLine = false
