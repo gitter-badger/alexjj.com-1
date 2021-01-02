@@ -1,7 +1,7 @@
 #### Chemical Engineer. Computer Science Hobbyist. Dad.
 ![me](/images/me.jpg)
 
-I enjoy using data to solve problems, and I like learning new things. Where I can I like to use open source software, as [Freedom](https://www.fsf.org/) is important. See what I use in my [setup](/setup.md). I'm very fond of tea ☕.
+I enjoy using data to solve problems, and I like learning new things. Where I can I like to use open source software, as [Freedom](https://www.fsf.org/) is important. See what I use in my [setup](/setup/). I'm very fond of tea ☕.
 
 ### My other sites
 
