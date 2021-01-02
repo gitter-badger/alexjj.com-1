@@ -5,7 +5,7 @@ date = "2021-01-01"
 tags = ["keyboard",]
 +++
 
-### Keyboard series:
+### Keyboard series
 
 * Part 0: Introduction
 * Part 1: Poker 2
