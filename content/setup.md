@@ -42,7 +42,7 @@ A couple of Raspberry Pis about. One acting as DNS via [pi-hole](https://pihole.
 
 Old desktop still sat about. Thought about selling but it's not worth much, probably give it to my sister. Still plays modern games well with i5 2500K, and RX580.
 
-I really like my Kindle Paperwhite. I started a list of the [books]({filename}books.md) I've read.
+I really like my Kindle Paperwhite. I started a list of the [books](/books/) I've read.
 
 ### Previous Hardware
 
