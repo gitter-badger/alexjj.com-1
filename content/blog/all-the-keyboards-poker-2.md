@@ -47,4 +47,6 @@ Through my endless hours on /r/mechanicalkeyboards, geekhack and desk authority 
 
 ![](/images/Poker 2 2.jpg)
 
-This pink case would actually be the demise of the Poker 2. I found the case on Aliexpress for peanuts and thought it would go well with the pink space bar. Unfortunately in the process of installing it
+This pink case would actually be the demise of the Poker 2. I found the case on Aliexpress for peanuts and thought it would go well with the pink space bar. Unfortunately in the process of installing it, I didn’t pay attention to the USB connector and ended up bending it. It still worked but it was now loose and would occasionally disconnect. I tried soldering it back on and even glueing it but it never seemed to be reliable. After many years of use, and as part of my decluttering I ended up selling it along with everything else.
+
+I hope the buyer got as much joy from it as I did.
