@@ -7,7 +7,7 @@ title = "Use Signal"
 +++
 ![](/images/e617feb5-538f-4268-acc1-5afca68ea035.jpeg)
 
-This picture is circulating the internet following WhatsApps change in terms. Why does Facebook need all this access for a messenging application? Well to make more money of course. However, do you really want to share all this just to chat with your friends?
+This picture is circulating the internet following WhatsApp’s change in terms. Why does Facebook need all this access for a messenging application? Well to make more money of course. However, do you really want to share all this just to chat with your friends?
 
 Apple marks an app as asking for “Sensitive Info” when it asks for data ranging from data on a person’s race, ethnicity, or sexual orientation, as well as data on a person’s religion, pregnancy status, or political opinions. Biometric data in all of its forms also falls under this umbrella.
 
@@ -17,7 +17,7 @@ Do yourself a favour and install [Signal](https://signal.org/download/), and the
 
 ## Using Signal
 
-It’s just like WhatsApp, you have single and group chats, you can do audio and video calls with one person or group chats, and it adds anyone in your contacts who has installed Signal. 
+It’s just like WhatsApp, you have single and group chats, you can do audio and video calls with one person or group chats, and it adds anyone in your contacts who has installed Signal.
 
 You can send photos, videos, voice recording, search for gifs via giphy, and it has a weird selection of stickers.
 
