@@ -1,7 +1,6 @@
 +++
 date = 2021-01-10T00:00:00Z
 description = "Chatting without being exploited"
-draft = true
 tags = ["privacy"]
 title = "Use Signal"
 
