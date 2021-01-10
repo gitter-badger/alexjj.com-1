@@ -8,7 +8,7 @@ tags = ["keyboard",]
 ### Keyboard series
 
 * Part 0: Introduction
-* Part 1: Poker 2
+* [Part 1: Poker 2](/blog/all-the-keyboards-poker-2/)
 * Part 2: Ergodox
 * Part 3: Clueboard
 * Part 4: WASD V2 88-Key ISO

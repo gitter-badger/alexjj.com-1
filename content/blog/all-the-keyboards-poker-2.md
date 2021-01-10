@@ -44,7 +44,7 @@ The Poker 2 comes with a set function layer and also a custom function layer whi
 
 Through my endless hours on /r/mechanicalkeyboards, geekhack and desk authority I found out about [QMK](https://qmk.fm/). The idea of being able to define every key and every layer was exciting. I felt like the limited programmability of the Poker 2 was it’s weakness and now I had to find a board that used QMK so I could be in complete control, and build the most efficient board ever. I later found that all this extra functionality and customisation wasn’t really a gap that I needed to fill, whilst it seems amazing, any changes to a default keyboard layout means learning new things. This could be okay if it was the only keyboard I used but move between home and work or laptops meant it would never be. Plus if anyone else wanted to use the computer it would be impossible.
 
-![](/images/Poker 2 2.jpg)
+![](/images/Poker-2-2.jpg)
 
 This pink case would actually be the demise of the Poker 2. I found the case on Aliexpress for peanuts and thought it would go well with the pink space bar. Unfortunately in the process of installing it, I didn’t pay attention to the USB connector and ended up bending it. It still worked but it was now loose and would occasionally disconnect. I tried soldering it back on and even glueing it but it never seemed to be reliable. After many years of use, and as part of my decluttering I ended up selling it along with everything else.
 
