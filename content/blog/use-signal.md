@@ -17,15 +17,11 @@ Do yourself a favour and install [Signal](https://signal.org/download/), and the
 
 ## Using Signal
 
-It’s just like WhatsApp, you have single and group chats, you can do audio and video calls with one person or group chats, and it adds anyone in your contacts who has installed Signal.
-
-You can send photos, videos, voice recording, search for gifs via giphy, and it has a weird selection of stickers.
-
-If there is something WhatsApp does that Signal doesn’t I’ve not noticed in using it.
+It’s just like WhatsApp, you have single and group chats, you can do audio and video calls with one person or group chats, and it adds anyone in your contacts who has installed Signal. You can send photos, videos, voice recording, search for gifs via giphy, and it has a weird selection of stickers. If there is something WhatsApp does that Signal doesn’t I’ve not noticed in using it.
 
 It has some extra security/privacy features that are unique. Such as validating someone’s safety number to ensure it’s them. This is like PGP encryption keys whereby you can set the level of trust the key. The idea is that you meet in person, or some other way, and share each other’s QR code to scan and that way you can verify each other. So if someone else stole their phone number and setup signal the unique key that you previously trusted would not be present and you’d know it wasn’t truly them. Not really something most people are going to use though.
 
-There are a whole host of other privacy options and I encourage you to read about it on their website. Plus all their apps are open source and the company is a non-profit entity.
+There are a whole host of other privacy options and I encourage you to read about it on their website. Plus all their apps are open source and the company is a non-profit entity. Also there are desktop and tablet apps, which are nice whilst not on your phone.
 
 The bottom line for most people, who don’t necessarily care about all these security features or being open source, is that Signal does not exploit you for the financial gain of the company.
 
