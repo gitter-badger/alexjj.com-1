@@ -26,3 +26,7 @@ title = "All the keyboards: Poker 2"
 * Part 15: Key caps
 
 ## Poker 2
+
+![poker2-1](/images/poker2.jpg)
+
+This was my very first mechanical keyboard. 
