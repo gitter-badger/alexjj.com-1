@@ -23,5 +23,6 @@ fields:
   name: description
   label: description
 pages:
+- content/blog/all-the-keyboards-ergodox.md
 - content/blog/all-the-keyboards-poker-2.md
 - content/blog/use-signal.md
