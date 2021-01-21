@@ -10,6 +10,7 @@ I stopped recording them in early 2019...have to go back to my kindle/shelves an
 
 #### 2021
 
+* _The Ballad of Songbirds and Snakes_ (2020), Suzanne Collins, pp 439
 * _How to Think Like a Roman Emperor: The Stoic Philosophy of Marcus Aurelius_ (2019), Donald J. Robertson, pp 304
 
 #### 2020
