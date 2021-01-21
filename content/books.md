@@ -5,8 +5,7 @@ title = "Books"
 +++
 _If I have seen further than others, it is by standing upon the shoulders of giants._
 
-List of books I've read:  
-I stopped recording them in early 2019...have to go back to my kindle/shelves and try and figure it out!
+List of books I've read:
 
 #### 2021
 
@@ -22,6 +21,8 @@ I stopped recording them in early 2019...have to go back to my kindle/shelves an
 * _The 4 Disciplines of Execution: Achieving Your Wildly Important Goals_ (2012),  Chris McChesney, Sean Covey, Jim Huling, 296 pp
 
 #### 2019
+
+I stopped recording them in early 2019...have to go back to my kindle/shelves and try and figure it out!
 
 * _The Plot Against America_ (2004), Philip Roth, 391 pp
 * _The Bullet Journal Method_ (2018), [Ryder Carroll](https://bulletjournal.com/), 320 pp
